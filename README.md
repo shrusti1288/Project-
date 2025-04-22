@@ -1,4 +1,4 @@
-# Project1-
+# Project 1-
 Self-Healing Infrastructure with Prometheus, Alertmanager &amp; Ansible
 
 Project Overview:
